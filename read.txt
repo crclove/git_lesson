@@ -1,0 +1,6 @@
+something happened
+now we will do something
+something changed again
+we will add a new file
+a new line added
+git is a version control system
